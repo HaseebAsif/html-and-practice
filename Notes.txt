@@ -1,0 +1,16 @@
+HTML is a Building Structure
+CSS is a building's Paint and Tiles
+JavaScript is basically Functionality
+
+
+We can use CSS in 3 ways
+1. Inline CSS
+2. Internel CSS
+3. By Creating a separate file
+
+Frontend Developer Path (4 Months)
+HTML 1 Week
+CSS 2 Weeks
+JavaScript 1 Month
+Tailwind CSS 1 Week
+React JS 2 Months

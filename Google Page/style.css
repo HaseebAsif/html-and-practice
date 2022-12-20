@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* CSS Poperties */
+.google-container {
+  height: 100vh;
+  background-color: black;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+p {
+  font-size: 80px;
+}
+input {
+  width: 500px;
+  height: 30px;
+  margin-top: 30px;
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 20px;
+  color: white;
+  padding: 0 40px;
+}
+.fa-magnifying-glass {
+  position: relative;
+  left: 38px;
+}
+
+.buttons-container {
+  margin-top: 20px;
+}
+
+.buttons-container button {
+  background-color: rgb(72, 69, 69);
+  color: white;
+  border: 1px solid rgb(122, 120, 120);
+  padding: 10px;
+  margin: 0 10px;
+}
